@@ -24,7 +24,7 @@ import org.apache.log4j.Level;
  */
 public class StatisticLevel extends Level {
 
-  public static final StatisticLevel STATISTIC = new StatisticLevel(55000, "STATISTIC", 0);
+  public static final StatisticLevel STATISTIC = new StatisticLevel(55000, "STATISTICSGSDFSDFSDGSDFASDEDGSDFQWDGFSDGSDFAWBKBDFKJSDBKJWBRKJSDBGKSDJBFKJWEBFKJDBGKJSDBFKJWEBFKJSDBFKJWBEKJBFKJSDBKGJBSEKDJFGBSKJBFWEKJBFKJSDFBKJBKWJEBFKJRBDGIKDNGONJWBJKBGVKSHB", 0);
 
   private static final long serialVersionUID = -209614723183147373L;
 

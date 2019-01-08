@@ -17,9 +17,9 @@
 
 package org.apache.carbondata.common;
 
+import org.apache.carbondata.common.annotations.InterfaceAudience;
 import java.util.Map;
 
-import org.apache.carbondata.common.annotations.InterfaceAudience;
 
 @InterfaceAudience.Internal
 public class Maps {
